@@ -145,7 +145,7 @@ export default {
     logo: {
       type: String,
       default: "img/brand/green.png",
-      description: "Sidebar app logo",
+      description: "dy - project",
     },
     autoClose: {
       type: Boolean,
